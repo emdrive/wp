@@ -1,0 +1,10 @@
+.img_loading { display: none; }
+#select_db { border: 1px dashed #e0e0e0; margin-top: 10px; padding: 10px 0; border-left: none; border-right: none;}
+.jconfirm-buttons { display: none; }
+
+.btn { border:none; color: #fff; background: #e0e0e0; padding: 3px 8px; font-size: 12px; border-radius: 3px; cursor: pointer; }
+.btn.red { background: #ff0000; }
+.btn.green { background: #1e73be; }
+.btn:hover { background: #2cc13d; color: #fff; }
+
+.user_list { display: block;  width:200px; vertical-align: top;}

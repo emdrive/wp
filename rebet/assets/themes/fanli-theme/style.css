@@ -1,0 +1,22 @@
+/*
+Theme Name: Kepress Theme
+Version: 1.0
+
+/***********************************************************************************/
+/*                                  Reset Browser                                  */
+/***********************************************************************************/
+
+#main_menu_id { margin-bottom: 0px; }
+.tuijian-code { border: none; color: #ff0000; }
+.captcha .captcha-input {
+    padding-left: 0;
+}
+.captcha img {
+    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+}
+.formmalert { display: none; }
+
+label.error { display: none !important; }
+input.error { border: 1px solid #ff0000; }

@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+$environment_variable = '{"theme":{"folder_name":"fanli-theme","mapped_name":"template"},"allowed_paths":["\/mnt\/fanlisys\/assets\/themes"],"cache_path":"\/mnt\/fanlisys\/assets\/cache\/wph\/","site_wordpress_relative_path":"\/","wordpress_directory":"","site_relative_path":""}' ?>

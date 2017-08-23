@@ -1,0 +1,16 @@
+body, #wpbody, .form-table .pre {color:#333333;}
+.login h1 a{
+	background:none;
+	text-align:center;
+	font-family: Georgia, "Bitstream Charter", serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFF;
+	line-height: 67px;
+	text-decoration: none;
+	display:block;
+	padding-bottom:15px;
+	text-indent:0px; 
+	width: 600px;
+	margin: 0 0 0 -125px;
+}
